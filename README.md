@@ -1,4 +1,4 @@
-# 🧠 Problem Code Editor Challenge
+# 🧠 Code Editor
 
 A modern, minimal, and responsive code editor web application built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **CodeMirror**. This project was developed as part of an internship interview challenge, simulating a real-world coding platform like LeetCode or CodeSandbox.
 
